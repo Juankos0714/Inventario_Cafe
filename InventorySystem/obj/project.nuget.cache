@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WXWaCMeWQeY=",
+  "dgSpecHash": "xQGHVkuPB58=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jucar\\Documentos\\Software Development\\Carlos Manuel\\project\\InventorySystem\\InventorySystem.csproj",
+  "projectFilePath": "C:\\Users\\jucar\\Documentos\\Software Development\\Cafe Rochi\\project\\InventorySystem\\InventorySystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jucar\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\jucar\\.nuget\\packages\\closedxml\\0.102.2\\closedxml.0.102.2.nupkg.sha512",

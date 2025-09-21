@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UI\Forms\ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\ProductEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\ProductsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\SalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\TempSaleAliasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\UserEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Forms\VentaAliasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
